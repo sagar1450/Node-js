@@ -14,12 +14,12 @@ fs.readdir(dirpath,(error,file_list)=>{
 
 })
 
-const arr=[4,7,5,6,9];
-arr.map((item)=>{
-console.log(item);
-})
+// const arr=[4,7,5,6,9];
+// arr.map((item)=>{
+// console.log(item);
+// })
 
-const arr1=[4,7,5,6,9];
-arr1.forEach((item)=>{
-console.log(item);
-})
+// const arr1=[4,7,5,6,9];
+// arr1.forEach((item)=>{
+// console.log(item);
+// })
